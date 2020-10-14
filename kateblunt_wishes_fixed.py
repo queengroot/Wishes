@@ -60,7 +60,7 @@ def get_tax(sub):
     goodbye()
 
 def goodbye():
-    print("Hope you get everything you wish for!")
+    print("Hope you get everything you wish for in 2020!")
     print("Goodbye!")
 
 def main():
