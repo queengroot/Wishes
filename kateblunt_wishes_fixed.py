@@ -62,6 +62,7 @@ def get_tax(sub):
 def goodbye():
     print("Hope you get everything you wish for in 2020!")
     print("Goodbye!")
+    input("")
 
 def main():
     display_welcome()
